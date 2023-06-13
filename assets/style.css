@@ -9,11 +9,8 @@ body {
   
 }
 
-html,
-body {
-    width: 700 px;
-    padding: 50px;
-  
+.first-article {
+  width: 700px;
 }
 
 #title {
