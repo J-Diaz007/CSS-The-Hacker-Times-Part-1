@@ -18,6 +18,12 @@ body {
   
 }
 
+section {
+    display: inline-block;
+    width:400px;
+    padding: 20px;
+}
+
 #title {
     font-family: Abril Fatface;
     font-size: 3em;
