@@ -10,7 +10,12 @@ body {
 }
 
 .first-article {
-  width: 700px;
+  width:700px;
+  border-radius:8px;
+  border: 5px solid darkgreen;
+  box-shadow: 0cm green;
+  padding: 30px;
+  
 }
 
 #title {
