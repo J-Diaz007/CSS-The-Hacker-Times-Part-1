@@ -15,6 +15,7 @@ body {
   border: 5px solid darkgreen;
   box-shadow: 0cm green;
   padding: 30px;
+  position: static;
   
 }
 
@@ -36,7 +37,8 @@ nav {
     border-bottom: solid;
     border-color: gray;
     color: gray;
-    
+    position: fixed;
+    background-color: white;
 }
 
 ul li {
